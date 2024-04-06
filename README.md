@@ -5,6 +5,7 @@ I created this for bug hunters and security researchers although anyone can use 
 
 # Usage:
 python3 alonelyhacker.py
+
 (Will also create a friendship_history.json dump file to store and load the conversation for memory of the user, you can delete this file manually, it'll be created again after usage)
 
 # My next steps with this little side project
