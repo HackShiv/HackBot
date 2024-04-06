@@ -111,7 +111,7 @@ def main():
             response = interact_with_wormgpt(user_input, friendship_history)
 
             if not response:
-                print(f"{LIGHT_BLUE}ALonelyHacker:{ENDC} Yeah, What?")
+                print(f"{LIGHT_BLUE}ALonelyHacker:{ENDC} Yeah, What? (you broke it lolz, enter text to reset hopefully)")
             elif response.lower() != user_input.lower():
                 print(f"{LIGHT_BLUE}ALonelyHacker:{ENDC}", response)
 
