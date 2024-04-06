@@ -1,5 +1,5 @@
 # About alonelyhacker
-A simple hackingbot for terminal usage (Able to learn and adapt to users). 
+A simple hackingbot for terminal usage (Able to learn and adapt from users). 
 This is based off from the langauge model Mistral AI that intergrates its POST requests from WormGPT.
 
 I created this for bug hunters and security researchers although anyone can use it really.
