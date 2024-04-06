@@ -12,6 +12,6 @@ python3 alonelyhacker.py
 # My next steps with this little side project
 - Directory and Files Integration with VirusTotal scan option (If I do manage to pull this off, it'd be a great win for me personally)
 - Ability to create different files with the AI based on output (.txt, .exe, .sh, .doc, etc) - So for example "user: Give me some XSS, I can use on a website > XSSpayloads.txt" (Ofc this is simplified and I might have to add flags probably)
-- Make it the most more humanlike???? (Impossible, or is it?) :0
+- Make it the most and more humanlike???? (Impossible, or is it?) :0
 
 Feel free to use it, inspect the code, play with it, feedback or help you are interested, really, that'd be much appreciated. (Also star my repo if you find it useful)
