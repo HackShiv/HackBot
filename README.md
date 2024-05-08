@@ -15,3 +15,6 @@ python3 hackbot.py
 - Make it the most and more humanlike???? (Impossible, or is it?) :0
 
 Feel free to use it, inspect the code, play with it, feedback or help you are interested, really, that'd be much appreciated. (Also star my repo if you find it useful)
+
+# Donations
+https://buymeacoffee.com/hackshiv
