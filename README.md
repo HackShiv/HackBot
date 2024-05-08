@@ -16,5 +16,5 @@ python3 hackbot.py
 
 Feel free to use it, inspect the code, play with it, feedback or help you are interested, really, that'd be much appreciated. (Also star my repo if you find it useful)
 
-# Donations
-https://buymeacoffee.com/hackshiv
+# Donations ❤️
+<a href="https://www.buymeacoffee.com/hackshiv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
