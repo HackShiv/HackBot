@@ -1,4 +1,4 @@
-# About alonelyhacker
+# About HackBot
 A simple hackingbot for terminal usage (Able to learn and adapt from users). 
 This is based off from the langauge model Mistral AI that intergrates its API requests from Unofficial WormGPT.
 
