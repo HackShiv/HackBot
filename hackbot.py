@@ -33,7 +33,7 @@ def interact_with_wormgpt(user_input, friendship_history):
 
         return ai_response.strip()  # Strip any leading or trailing whitespaces
     except Exception as e:
-        print("ALonelyHacker: Soz, I couldn't process your request. Please try again.")
+        print("ALonelyHacker: Soz, I couldn't process your request. Maybe the API is down. Please try again later.")
         return ""
 
 def is_gibberish(input_text):
@@ -109,11 +109,6 @@ def main():
                 continue
 
             response = interact_with_wormgpt(user_input, friendship_history)
-
-            if not response:
-                print(f"{LIGHT_BLUE}ALonelyHacker:{ENDC} Yeah, What? (you broke it lolz, enter text to reset hopefully)")
-            elif response.lower() != user_input.lower():
-                print(f"{LIGHT_BLUE}ALonelyHacker:{ENDC}", response)
 
             friendship_history.append({'role': 'user', 'content': user_input})
             if response.lower() != user_input.lower():
