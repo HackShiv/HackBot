@@ -1,4 +1,4 @@
-# About HackBot
+# About HackBot - Needs a fix, i'll get around to it soon.
 A simple hackingbot for terminal usage (Able to learn and adapt from users). 
 This is based off from the langauge model Mistral AI that intergrates its API requests from Unofficial WormGPT.
 
